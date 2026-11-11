@@ -1,2 +1,3 @@
 something changed by pull test
 git diff after before stage and nothing.
+no
