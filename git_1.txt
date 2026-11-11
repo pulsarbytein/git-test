@@ -1,3 +1,3 @@
 something changed by pull test
 overwrite
-git diff after before stage and with staged.
+git diff after before stage and nothing.
